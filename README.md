@@ -9,6 +9,10 @@
 
 [GitLab とは？](https://aslead.nri.co.jp/products/gitlab/)
 
+## TODO
+* 脆弱なパスワードを許可する
+* draw.io を使えるようにする
+* runner を使えるようにする
 
 ## 詳細
 
